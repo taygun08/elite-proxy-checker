@@ -109,15 +109,6 @@ output/
 └── summary_20231215_123456.txt
 ```
 
-## Dependencies
-
-- Python 3.8+
-- aiohttp
-- aiohttp-socks
-- rich
-- geoip2
-- And more in requirements.txt
-
 ## Contributing
 
 1. Fork the repository
@@ -129,9 +120,3 @@ output/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- [ProxyScrape](https://proxyscrape.com/) for providing proxy APIs
-- [aiohttp](https://docs.aiohttp.org/) for async HTTP client/server framework
-- [rich](https://rich.readthedocs.io/) for beautiful terminal formatting

@@ -75,7 +75,7 @@ Output Control:
 
 1. Check HTTP proxies with SSL verification:
 ```bash
-python proxy_scraper.py --verify-ssl --protocols http
+python proxy_scraper.py --verify-ssl true --protocols http
 ```
 
 2. Find elite proxies with fast response time:

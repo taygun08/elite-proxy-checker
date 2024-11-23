@@ -93,7 +93,8 @@ python proxy_scraper.py --export-format json --protocols http,socks4
 
 ### User Agents
 Customize user agents in `config/user_agents.txt`.
-Customize proxy sources in `config/proxy_sources.txt`
+### Proxy Sources
+Customize proxy sources in `config/proxy_sources.txt`.
 
 ## Output Structure
 

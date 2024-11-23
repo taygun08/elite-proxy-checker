@@ -113,6 +113,7 @@ output/
 
 This entire project was written by AI, including the README.
 It was a test project, but it works in general. Yes, the code structure and methods are terrible, it wasn't a project I worked on much, don't judge me :D
+and this project basically just checks http headers
 
 ## Contributing
 

@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Project specific
+output/
+logs/
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+.DS_Store
+
+# Flask
+instance/
+.webassets-cache
+flask_session/
+
+# Proxy Scraper specific
+*.json
+*.csv
+*.txt
+!requirements.txt
+!proxy_sources.txt
+!README.md

@@ -1,0 +1,10 @@
+# Current Sources
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=http
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt

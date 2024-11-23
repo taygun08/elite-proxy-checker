@@ -1,0 +1,12 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+aiohttp>=3.9.1
+aiohttp-socks>=0.8.4
+colorama>=0.4.6
+geoip2>=4.8.0
+argparse>=1.4.0
+asyncio>=3.4.3
+aiofiles>=23.2.1
+rich>=13.7.0
+pytest>=7.4.3
+pytest-asyncio>=0.23.2

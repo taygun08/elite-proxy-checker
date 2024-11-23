@@ -109,6 +109,11 @@ output/
 └── summary_20231215_123456.txt
 ```
 
+## Note
+
+This entire project was written by AI, including the README.
+It was a test project, but it works in general. Yes, the code structure and methods are terrible, it wasn't a project I worked on much, don't judge me :D
+
 ## Contributing
 
 1. Fork the repository

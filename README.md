@@ -28,7 +28,7 @@ A high-performance, asynchronous proxy scraper and checker tool that supports mu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/proxy_scraper.git
+git clone https://github.com/taygun08/elite-proxy-checker.git
 cd proxy_scraper
 ```
 
@@ -90,15 +90,10 @@ python proxy_scraper.py --export-format json --protocols http,socks4
 
 ## Configuration
 
-### Proxy Sources
-Add or modify proxy sources in `config/proxy_sources.txt`:
-```
-https://api.proxyscrape.com/v2/?request=getproxies&protocol=http
-https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4
-```
 
 ### User Agents
 Customize user agents in `config/user_agents.txt`.
+Customize proxy sources in `config/proxy_sources.txt`
 
 ## Output Structure
 
